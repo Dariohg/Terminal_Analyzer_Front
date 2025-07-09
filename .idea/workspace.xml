@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e9da912-1893-4d8e-86a2-2c8bebb8258d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/assets/images/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/assets/images/logo-completo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/assets/images/logo-fondo-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/assets/images/logo-fondo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/layout/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/layout/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/layout/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/AboutUs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Contact.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Services.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Technologies.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/pages/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/theme/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/fitness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/individual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/population.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/gui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/gui/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/gui/visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/static/js/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/static/js/genetic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/static/js/video_generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/utils/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/algoritmo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/genetico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/poblacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/algoritmo/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/funciones/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/funciones/objetivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/visualizacion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/IA_pract_20_5/visualizacion/graficos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/funciones/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/funciones/objetivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/genetico/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/genetico/algoritmo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/genetico/codificacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/genetico/operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/genetico/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/visualizacion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/projects_IA/algoritmo_genetico/visualizacion/graficador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/database/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/database/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/routes/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/routes/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/static/css/player.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/static/js/offline-sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/static/videos/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/player.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/templates/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/utils/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/app/utils/video_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/streaming_project/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/handlers/analyzer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/models/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/services/lexical.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/services/semantic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/services/syntax.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/utils/helpers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../analyzer-backend/utils/keywords.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/employees/EditEmployeeModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/locations/AddLocationModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/locations/LocationCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/products/AddProductModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/products/EditProductModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/products/ProductCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/components/products/RestockModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/pages/EmployeesPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/pages/LocationsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-admin/src/pages/ProductsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/common/HaircutCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/common/ProductCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/layout/BaseLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/layout/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/layout/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/sections/FeaturedHaircutsSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/sections/FeaturedProductsSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/sections/HeroSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/components/sections/LocationsMapSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/pages/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/routes/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/styles/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../black-bull/black-bull-client/src/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/ClientModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/ClientTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/FileUpload.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/LoadingSpinner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/components/StatsCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/pages/ClientsPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/pages/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/pages/UploadPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/services/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/theme/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../client-data-compiler-frontend/src/utils/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../depreciation-calculator/src/calculators/LoanSimulator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../depreciation-calculator/src/models/LoanData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/core/error/ErrorBoundary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/core/layout/AppLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/core/navigation/NavigationWrapper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/data/models/Product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/data/models/ProductDTO.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/data/repository/ProductRepository.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/domain/CreateProductUseCase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/domain/DeleteProductUseCase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/domain/GetProductsUseCase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/domain/UpdateProductUseCase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/presentation/components/ProductForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/presentation/components/ProductList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/presentation/pages/ProductView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recu-front/src/features/products/presentation/viewmodels/ProductViewModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/CTASection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/FeaturesSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/FooterSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/HeaderSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/HeroSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/StatsSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/components/landing/TestimonialsSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/pages/DashboardPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/pages/LandingPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/pages/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/pages/RegisterPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/src/styles/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../voyaj-app/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ActDocker/api-productos/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ActDocker/api-productos/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ActDocker/frontend-productos/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ActDocker/frontend-productos/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ActDocker/frontend-productos/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ActDocker/frontend-productos/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/controllers/grupo.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/controllers/grupo.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/models/grupo.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/models/grupo.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/repositories/grupo.repository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/repositories/grupo.repository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/routes/grupo.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/routes/grupo.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/services/grupo.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-back/src/services/grupo.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/CtaSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/CtaSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/FeaturesSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/FeaturesSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/HeroSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/HeroSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/HowItWorksSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/HowItWorksSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/ShowcaseSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/ShowcaseSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/StatsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/StatsSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/TestimonialsSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/TestimonialsSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/utils/AnimationUtils.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/landing/utils/AnimationUtils.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/layout/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/layout/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/layout/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/components/layout/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/contexts/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/contexts/AuthContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/layouts/MainLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/layouts/MainLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/Dashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/LandingPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/auth/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/pages/auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/theme/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/presentation/theme/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/utils/icons-shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DUOTASK/DUOTASK-front/src/utils/icons-shim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/core/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/core/services/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/auth/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/landing/Landing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/landing/Landing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/patients/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/patients/Dashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/patients/PatientsList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/prescriptions/NewPrescription.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/prescriptions/NewPrescription.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/features/prescriptions/PrescriptionsList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/contexts/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/contexts/AuthContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/layout/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/layout/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DiagNow/diagnow/src/shared/layout/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/domain/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/domain/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/domain/services/authService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/domain/services/authService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/infrastructure/repositories/authRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/infrastructure/repositories/authRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/contexts/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/contexts/AuthContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Dashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/SensorDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/SensorDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Settings.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Settings.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Statistics.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/Statistics.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/auth/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/src/presentation/pages/auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Free Garden/free-garden/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Free Garden/free-garden/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/core/usecases/auth/LoginUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/core/usecases/auth/LoginUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/core/usecases/auth/RegisterUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/core/usecases/auth/RegisterUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/infrastructure/api/apiClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/infrastructure/api/apiClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/infrastructure/repositories/AuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/infrastructure/repositories/AuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/interfaces/repositories/IAuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/interfaces/repositories/IAuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/components/auth/ProtectedRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/components/auth/ProtectedRoute.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/context/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/context/AuthContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Auth/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Auth/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Auth/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Auth/Register.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/Events/CreateEvent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/Events/CreateEvent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/RecentActivityCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/RecentActivityCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/RecommendationsCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/RecommendationsCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/SidebarContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/SidebarContent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/StatsCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/StatsCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/UpcomingEventsCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/UpcomingEventsCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/WelcomeCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/components/WelcomeCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/CallToAction.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/CallToAction.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/MusicCategories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/MusicCategories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/automata/automata.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/automata/automata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/pdf_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/pdf_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/Challenge/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/Challenge/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/Concurrent_/concu2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/Concurrent_/concu2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/machine/machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/machine/machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/SumBinary_TuringMachine/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/turingMachine/turingMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/ejercicioTuring/turingMachine/turingMachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/Order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/domain/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IAuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IAuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IOrderRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IOrderRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IProductRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/repositories/IProductRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/orders/CreateOrderUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/orders/CreateOrderUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/orders/GetClientOrdersUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/orders/GetClientOrdersUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/products/CreateProductUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/products/CreateProductUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/products/GetProductsUseCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/core/useCases/products/GetProductsUseCase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/AuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/AuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/OrderRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/OrderRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/ProductRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/repositories/ProductRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/services/ApiClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/data/services/ApiClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/infrastructure/theme/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/infrastructure/theme/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/hooks/useAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/hooks/useAuth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/auth/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/auth/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/auth/RegisterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/auth/RegisterPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/home/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/home/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/orders/OrderHistoryPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/orders/OrderHistoryPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/products/AddProductPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/pages/products/AddProductPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/routes/AppRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/routes/AppRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/routes/ProtectedRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/front-venta/src/presentation/routes/ProtectedRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/core/domain/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/core/domain/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/core/repositories/IAuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/core/repositories/IAuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/data/repositories/AuthRepository.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/data/repositories/AuthRepository.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/data/services/ApiClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/data/services/ApiClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/infrastructure/theme/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/infrastructure/theme/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/hooks/useAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/hooks/useAuth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/auth/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/auth/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/auth/RegisterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/auth/RegisterPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/home/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/pages/home/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/routes/AppRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/routes/AppRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/routes/ProtectedRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../event-driver/punto-de-venta/src/presentation/routes/ProtectedRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f1-hex-api/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../../f1-hex-api/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f1-hex-api/src/core/db_mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../f1-hex-api/src/core/db_mysql.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zOtVA5586gDXvBxbaIJuK5atcX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dariohg/Documents/Proyect_C2_compiladores/terminal-history-analyzer/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e9da912-1893-4d8e-86a2-2c8bebb8258d" name="Changes" comment="" />
+      <created>1751613967315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751613967315</updated>
+      <workItem from="1751613968721" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -20,6 +20,27 @@
       <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/components/sections/Technologies.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/pages/HomePage.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Kodo/kodo-landing/src/theme/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/api/routes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/cmd/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/handlers/history.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/lexer/lexer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/middleware/cors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/models/models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/parser/parser.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/internal/semantic/analyzer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/pkg/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/pkg/utils/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/analysis/CommandHelpTooltip.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/analysis/SyntaxErrorDisplay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Analysis/EnhancedAnalysis.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../ProyectosPython/AG/genetic/__init__.py" afterDir="false" />
@@ -251,6 +272,8 @@
       <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Dashboard/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/CallToAction.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/CallToAction.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/MusicCategories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Groovit_project/groovit/src/presentation/pages/Home/MusicCategories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/automata/automata.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/automata/automata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/pdf_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProyectosPython/AutomataDeAutomata/pdf_generator.py" afterDir="false" />
@@ -309,29 +332,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2zOtVA5586gDXvBxbaIJuK5atcX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dariohg/Documents/Proyect_C2_compiladores/terminal-history-analyzer/frontend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dariohg/Documents/Proyect_C2_compiladores/terminal-history-analyzer/frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -348,6 +371,8 @@
       <option name="presentableId" value="Default" />
       <updated>1751613967315</updated>
       <workItem from="1751613968721" duration="690000" />
+      <workItem from="1751616148577" duration="7797000" />
+      <workItem from="1752082764419" duration="881000" />
     </task>
     <servers />
   </component>
